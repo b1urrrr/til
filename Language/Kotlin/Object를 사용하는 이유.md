@@ -1,4 +1,5 @@
-## 컴파일 코드
+## Object를 사용하는 이유
+### 컴파일 코드
 ```
 public final class Singleton {
    public static final Singleton INSTANCE;
