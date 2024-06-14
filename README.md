@@ -4,7 +4,7 @@
 
 <br>
 
-# COMMIT CONVENTION
+## COMMIT CONVENTION
 - ➕ **[ADD]** : TIL 문서나 부수적 코드 추가
 - ✅ **[MOD]** : TIL 문서 및 내부 파일 수정
 - 🗑 **[DEL]** : 쓸모없는 코드 및 파일 삭제
@@ -17,7 +17,7 @@
 
 <br>
 
-# INDEX
+## INDEX
 ### Day 01 (~24.06.07.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
@@ -31,13 +31,20 @@
 ### Day 02 (24.06.12.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| Design Pattern | Repository를 인터페이스와 구현체로 분리하는 이유 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Design%20Pattern/Repository%EB%A5%BC%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80%20%EA%B5%AC%ED%98%84%EC%B2%B4%EB%A1%9C%20%EB%B6%84%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md) |
+| Clean Architecture | Repository를 인터페이스와 구현체로 분리하는 이유 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Design%20Pattern/Repository%EB%A5%BC%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80%20%EA%B5%AC%ED%98%84%EC%B2%B4%EB%A1%9C%20%EB%B6%84%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md) |
 <br>
 
 ### Day 03 (24.06.13.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Object-Oriented Programming | 재사용이 필요할 때 인터페이스를 적극 활용하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Object-Oriented%20Programming/%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%9D%B4%20%ED%95%84%EC%9A%94%ED%95%A0%20%EB%95%8C%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC%20%EC%A0%81%EA%B7%B9%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 04 (24.06.14.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Network | GET 통신 시에 Body 요청을 지양하는 이유 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Network/GET%20%ED%86%B5%EC%8B%A0%20%EC%8B%9C%EC%97%90%20Body%20%EC%9A%94%EC%B2%AD%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md) |
+| Kotlin | @Throws를 사용하는 경우 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Language/Kotlin/%40Throws%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0.md) |
 
 <!-- 
 <br>
