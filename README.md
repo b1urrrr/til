@@ -25,13 +25,13 @@
 | Kotlin | Object를 사용하는 이유 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Language/Kotlin/Object%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md) |
 | Kotlin | 확장 함수 구현 시 메모리를 고려하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Language/Kotlin/%ED%99%95%EC%9E%A5%20%ED%95%A8%EC%88%98%20%EA%B5%AC%ED%98%84%20%EC%8B%9C%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EC%9E%90.md) |
 | Clean Architecture | 도메인 모델에 의존값을 포함하지 말자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Architecture/Clean%20Architecture/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%AA%A8%EB%8D%B8%EC%97%90%20%EC%9D%98%EC%A1%B4%EA%B0%92%EC%9D%84%20%ED%8F%AC%ED%95%A8%ED%95%98%EC%A7%80%20%EB%A7%90%EC%9E%90.md) |
-| Coroutine | ViewModelScope 대신 CoroutineScope를 사용해야 하는 경우 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Android/Coroutine/ViewModelScope%20%EB%8C%80%EC%8B%A0%20CoroutineScope%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0.md) |
+| Coroutine | ViewModelScope 대신 CoroutineScope를 사용해야 하는 경우 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Language/Kotlin/Coroutine/ViewModelScope%20%EB%8C%80%EC%8B%A0%20CoroutineScope%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0.md) |
 <br>
 
 ### Day 02 (24.06.12.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| Clean Architecture | Repository를 인터페이스와 구현체로 분리하는 이유 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Design%20Pattern/Repository%EB%A5%BC%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80%20%EA%B5%AC%ED%98%84%EC%B2%B4%EB%A1%9C%20%EB%B6%84%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md) |
+| Clean Architecture | Repository를 인터페이스와 구현체로 분리하는 이유 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Architecture/Clean%20Architecture/Repository%EB%A5%BC%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80%20%EA%B5%AC%ED%98%84%EC%B2%B4%EB%A1%9C%20%EB%B6%84%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md) |
 <br>
 
 ### Day 03 (24.06.13.)
@@ -45,6 +45,13 @@
 | :------: | :---: | :--: |
 | Network | GET 통신 시에 Body 요청을 지양하는 이유 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Network/GET%20%ED%86%B5%EC%8B%A0%20%EC%8B%9C%EC%97%90%20Body%20%EC%9A%94%EC%B2%AD%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md) |
 | Kotlin | @Throws를 사용하는 경우 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Language/Kotlin/%40Throws%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0.md) |
+<br>
+
+### Day 05 (24.06.17.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Clean Code | 분기 처리 시 다른 조건에 의존적인 조건은 지양하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Clean%20Code/%EB%B6%84%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20%EC%8B%9C%20%EB%8B%A4%EB%A5%B8%20%EC%A1%B0%EA%B1%B4%EC%97%90%20%EC%9D%98%EC%A1%B4%EC%A0%81%EC%9D%B8%20%EC%A1%B0%EA%B1%B4%EC%9D%80%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
+-->
 
 <!-- 
 <br>
