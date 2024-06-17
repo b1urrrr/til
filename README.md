@@ -51,7 +51,6 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Clean Code | 분기 처리 시 다른 조건에 의존적인 조건은 지양하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Clean%20Code/%EB%B6%84%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20%EC%8B%9C%20%EB%8B%A4%EB%A5%B8%20%EC%A1%B0%EA%B1%B4%EC%97%90%20%EC%9D%98%EC%A1%B4%EC%A0%81%EC%9D%B8%20%EC%A1%B0%EA%B1%B4%EC%9D%80%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
--->
 
 <!-- 
 <br>
