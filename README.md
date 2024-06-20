@@ -57,6 +57,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Data Structure | 불변하면 Set, 순서가 상관 없으면 HashSet, 순서가 보장되어야 하면 MutableSet을 사용하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Data%20Structure/%EB%B6%88%EB%B3%80%ED%95%98%EB%A9%B4%20Set,%20%EC%88%9C%EC%84%9C%EA%B0%80%20%EC%83%81%EA%B4%80%20%EC%97%86%EC%9C%BC%EB%A9%B4%20HashSet,%20%EC%88%9C%EC%84%9C%EA%B0%80%20%EB%B3%B4%EC%9E%A5%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%98%EB%A9%B4%20MutableSet%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 07 (24.06.20.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | 플랫폼 타입 사용을 지양하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Language/Kotlin/%ED%94%8C%EB%9E%AB%ED%8F%BC%20%ED%83%80%EC%9E%85%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
 
 <!-- 
 <br>
