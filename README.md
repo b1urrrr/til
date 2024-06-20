@@ -51,6 +51,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Clean Code | 분기 처리 시 다른 조건에 의존적인 조건은 지양하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Clean%20Code/%EB%B6%84%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20%EC%8B%9C%20%EB%8B%A4%EB%A5%B8%20%EC%A1%B0%EA%B1%B4%EC%97%90%20%EC%9D%98%EC%A1%B4%EC%A0%81%EC%9D%B8%20%EC%A1%B0%EA%B1%B4%EC%9D%80%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 06 (24.06.19.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Data Structure | 불변하면 Set, 순서가 상관 없으면 HashSet, 순서가 보장되어야 하면 MutableSet을 사용하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Data%20Structure/%EB%B6%88%EB%B3%80%ED%95%98%EB%A9%B4%20Set,%20%EC%88%9C%EC%84%9C%EA%B0%80%20%EC%83%81%EA%B4%80%20%EC%97%86%EC%9C%BC%EB%A9%B4%20HashSet,%20%EC%88%9C%EC%84%9C%EA%B0%80%20%EB%B3%B4%EC%9E%A5%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%98%EB%A9%B4%20MutableSet%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 
 <!-- 
 <br>
