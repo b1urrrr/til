@@ -63,6 +63,13 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | 플랫폼 타입 사용을 지양하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Language/Kotlin/%ED%94%8C%EB%9E%AB%ED%8F%BC%20%ED%83%80%EC%9E%85%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 08 (24.06.21.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Coroutine | withTimeout()으로 코루틴 동작에 타임아웃을 설정하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Language/Kotlin/Coroutine/withTimeout()으로%20코루틴%20동작에%20타임아웃을%20설정하자.md) |
+| Android App Architecture | Repository 또는 DataSource에서 앱 실행 중 캐시가 필요한 데이터를 저장하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Architecture/Android%20App%20Architecture/Repository%20또는%20DataSource에서%20앱%20실행%20중%20캐시가%20필요한%20데이터를%20저장하자.md) |
 
 <!-- 
 <br>
