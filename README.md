@@ -70,6 +70,12 @@
 | :------: | :---: | :--: |
 | Coroutine | withTimeout()으로 코루틴 동작에 타임아웃을 설정하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Language/Kotlin/Coroutine/withTimeout()으로%20코루틴%20동작에%20타임아웃을%20설정하자.md) |
 | Android App Architecture | Repository 또는 DataSource에서 앱 실행 중 캐시가 필요한 데이터를 저장하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Architecture/Android%20App%20Architecture/Repository%20또는%20DataSource에서%20앱%20실행%20중%20캐시가%20필요한%20데이터를%20저장하자.md) |
+<br>
+
+### Day 09 (24.06.24.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | Modifier.offset()은 다른 컴포넌트와 독립적인 경우에만 사용하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Compose/Modifier.offset()%EC%9D%80%20%EB%8B%A4%EB%A5%B8%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80%20%EB%8F%85%EB%A6%BD%EC%A0%81%EC%9D%B8%20%EA%B2%BD%EC%9A%B0%EC%97%90%EB%A7%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 
 <!-- 
 <br>
