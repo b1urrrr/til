@@ -76,6 +76,13 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | Modifier.offset()은 다른 컴포넌트와 독립적인 경우에만 사용하자 | [🔗](https://github.com/b1urrrr/TIL/blob/main/Compose/Modifier.offset()%EC%9D%80%20%EB%8B%A4%EB%A5%B8%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80%20%EB%8F%85%EB%A6%BD%EC%A0%81%EC%9D%B8%20%EA%B2%BD%EC%9A%B0%EC%97%90%EB%A7%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 10 (24.06.25.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | Modifier.clip()으로 컴포넌트를 원하는 형태로 자르자 | [🔗](https://github.com/b1urrrr/til/blob/til/Compose/Modifier.clip()%EC%9C%BC%EB%A1%9C%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC%20%EC%9B%90%ED%95%98%EB%8A%94%20%ED%98%95%ED%83%9C%EB%A1%9C%20%EC%9E%90%EB%A5%B4%EC%9E%90.md) |
+| Android Studio | Clean Project를 통해 수정사항을 확실하게 빌드 시키자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Studio/Clean%20Project%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%88%98%EC%A0%95%EC%82%AC%ED%95%AD%EC%9D%84%20%ED%99%95%EC%8B%A4%ED%95%98%EA%B2%8C%20%EB%B9%8C%EB%93%9C%20%EC%8B%9C%ED%82%A4%EC%9E%90.md) |
 
 <!-- 
 <br>
