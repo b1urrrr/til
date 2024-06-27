@@ -81,7 +81,7 @@
 ### Day 10 (24.06.25.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| Compose | Modifier.clip()으로 컴포넌트를 원하는 형태로 자르자 | [🔗](https://github.com/b1urrrr/til/blob/til/Compose/Modifier.clip()%EC%9C%BC%EB%A1%9C%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC%20%EC%9B%90%ED%95%98%EB%8A%94%20%ED%98%95%ED%83%9C%EB%A1%9C%20%EC%9E%90%EB%A5%B4%EC%9E%90.md) |
+| Compose | Modifier.clip()으로 컴포넌트를 원하는 형태로 자르자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Modifier.clip()%EC%9C%BC%EB%A1%9C%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC%20%EC%9B%90%ED%95%98%EB%8A%94%20%ED%98%95%ED%83%9C%EB%A1%9C%20%EC%9E%90%EB%A5%B4%EC%9E%90.md) |
 | Android Studio | Clean Project를 통해 수정사항을 확실하게 빌드 시키자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Studio/Clean%20Project%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%88%98%EC%A0%95%EC%82%AC%ED%95%AD%EC%9D%84%20%ED%99%95%EC%8B%A4%ED%95%98%EA%B2%8C%20%EB%B9%8C%EB%93%9C%20%EC%8B%9C%ED%82%A4%EC%9E%90.md) |
 <br>
 
@@ -89,6 +89,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Clean Code | 사용자 정의 오류보다 표준 오류를 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Clean%20Code/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A0%95%EC%9D%98%20%EC%98%A4%EB%A5%98%EB%B3%B4%EB%8B%A4%20%ED%91%9C%EC%A4%80%20%EC%98%A4%EB%A5%98%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 12 (24.06.27.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | snapshotFlow로 State를 Flow로 변환하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/snapshotFlow%EB%A1%9C%20State%EB%A5%BC%20Flow%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EC%9E%90.md) |
 
 <!-- 
 <br>
