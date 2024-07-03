@@ -108,6 +108,12 @@
 | :------: | :---: | :--: |
 | Network | URL은 소문자로 구성하되, 단어를 구분할 때는 하이픈(-)을 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Network/URL%EC%9D%80%20%EC%86%8C%EB%AC%B8%EC%9E%90%EB%A1%9C%20%EA%B5%AC%EC%84%B1%ED%95%98%EB%90%98%2C%20%EB%8B%A8%EC%96%B4%EB%A5%BC%20%EA%B5%AC%EB%B6%84%ED%95%A0%20%EB%95%8C%EB%8A%94%20%ED%95%98%EC%9D%B4%ED%94%88(-)%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 | Network | 안드로이드에서 딥링크를 구현하는 다양한 방법을 구분하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Network/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%97%90%EC%84%9C%20%EB%94%A5%EB%A7%81%ED%81%AC%EB%A5%BC%20%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 15 (24.07.03.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Clean Code | 객체는 사용하는 경우에만 생성하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Clean%20Code/%EA%B0%9D%EC%B2%B4%EB%8A%94%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EC%97%90%EB%A7%8C%20%EC%83%9D%EC%84%B1%ED%95%98%EC%9E%90.md?plain=1) |
 
 <!-- 
 <br>
