@@ -119,8 +119,14 @@
 ### Day 16 (24.07.04.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| Clean Code | Unit?을 리턴하지 말자 | [🔗](https://github.com/b1urrrr/til/blob/main/Clean%20Code/Unit%3F%EC%9D%84%20%EB%A6%AC%ED%84%B4%ED%95%98%EC%A7%80%20%EB%A7%90%EC%9E%90.md) |
+| Kotlin | Unit?을 리턴하지 말자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/Unit%3F%EC%9D%84%20%EB%A6%AC%ED%84%B4%ED%95%98%EC%A7%80%20%EB%A7%90%EC%9E%90.md) |
+<br>
 
+### Day 17 (24.07.05.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | inner class 대신 nested class를 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/inner%20class%20%EB%8C%80%EC%8B%A0%20nested%20class%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md?plain=1) |
+| Clean Code | 타입 파라미터의 섀도잉을 피하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Clean%20Code/%ED%83%80%EC%9E%85%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EC%9D%98%20%EC%84%80%EB%8F%84%EC%9E%89%EC%9D%84%20%ED%94%BC%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
