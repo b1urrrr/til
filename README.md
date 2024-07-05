@@ -114,6 +114,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Clean Code | 객체는 사용하는 경우에만 생성하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Clean%20Code/%EA%B0%9D%EC%B2%B4%EB%8A%94%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EC%97%90%EB%A7%8C%20%EC%83%9D%EC%84%B1%ED%95%98%EC%9E%90.md?plain=1) |
+<br>
+
+### Day 16 (24.07.04.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Clean Code | Unit?을 리턴하지 말자 | [🔗](https://github.com/b1urrrr/til/blob/main/Clean%20Code/Unit%3F%EC%9D%84%20%EB%A6%AC%ED%84%B4%ED%95%98%EC%A7%80%20%EB%A7%90%EC%9E%90.md) |
 
 <!-- 
 <br>
