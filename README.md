@@ -127,6 +127,13 @@
 | :------: | :---: | :--: |
 | Kotlin | inner class 대신 nested class를 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/inner%20class%20%EB%8C%80%EC%8B%A0%20nested%20class%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md?plain=1) |
 | Clean Code | 타입 파라미터의 섀도잉을 피하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Clean%20Code/%ED%83%80%EC%9E%85%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EC%9D%98%20%EC%84%80%EB%8F%84%EC%9E%89%EC%9D%84%20%ED%94%BC%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 18 (24.07.08.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | Compose의 상태는 메인 스레드에서만 접근하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Compose%EC%9D%98%20%EC%83%81%ED%83%9C%EB%8A%94%20%EB%A9%94%EC%9D%B8%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%97%90%EC%84%9C%EB%A7%8C%20%EC%A0%91%EA%B7%BC%ED%95%98%EC%9E%90.md) |
+
 <!-- 
 <br>
 
