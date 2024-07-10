@@ -1,3 +1,3 @@
-## RecyclerView를 구현할 때 Selection 라이브러리 사용을 지양하자.md
+## RecyclerView를 구현할 때 Selection 라이브러리 사용을 지양하자
 - 내부 코드가 수정될 수 없어 커스텀이 어려움
 - 추후 요구사항이 변경되는 경우 확장성이 떨어짐
