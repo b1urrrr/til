@@ -133,7 +133,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | Compose의 상태는 메인 스레드에서만 접근하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Compose%EC%9D%98%20%EC%83%81%ED%83%9C%EB%8A%94%20%EB%A9%94%EC%9D%B8%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%97%90%EC%84%9C%EB%A7%8C%20%EC%A0%91%EA%B7%BC%ED%95%98%EC%9E%90.md) |
+<br>
 
+### Day 19 (24.07.09.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Android Component | isTaskRoot를 통해 첫 번째 액티비티인지 확인하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/isTaskRoot%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
