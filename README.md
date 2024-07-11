@@ -145,6 +145,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Android Component | RecyclerView를 구현할 때 Selection 라이브러리 사용을 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/RecyclerView%EB%A5%BC%20%EA%B5%AC%ED%98%84%ED%95%A0%20%EB%95%8C%20Selection%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 21 (24.07.11.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Android Component | WebView에 domStorageEnable을 설정하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/WebView%EC%97%90%20domStorageEnable%EC%9D%84%20%EC%84%A4%EC%A0%95%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
