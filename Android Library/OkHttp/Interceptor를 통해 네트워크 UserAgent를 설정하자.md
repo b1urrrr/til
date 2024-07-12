@@ -16,7 +16,6 @@ class UserAgentInterceptor @Inject(
         "Android SDK ${Build.VERSION.SDK_INT}) " +
         "${Build.BRAND} ${Build.MODEL}"
 
-    @Throws(IOException::class)
     override fun intercept(chain: Interceptor.Chain): Response {
         val requestWithUserAgent = chain.request().newBuilder()
             .header(USER_AGENT, userAgent)
@@ -27,7 +26,6 @@ class UserAgentInterceptor @Inject(
 
     companion object {
         private const val USER_AGENT = "User-Agent"
-        ...
     }
 }
 ```
