@@ -151,6 +151,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Android Component | WebView에 domStorageEnable을 설정하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/WebView%EC%97%90%20domStorageEnable%EC%9D%84%20%EC%84%A4%EC%A0%95%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 22 (24.07.12.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| OkHttp | Interceptor를 통해 네트워크 UserAgent를 설정하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Library/OkHttp/Interceptor%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20UserAgent%EB%A5%BC%20%EC%84%A4%EC%A0%95%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
