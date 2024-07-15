@@ -157,6 +157,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | OkHttp | Interceptor를 통해 네트워크 UserAgent를 설정하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Library/OkHttp/Interceptor%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20UserAgent%EB%A5%BC%20%EC%84%A4%EC%A0%95%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 23 (24.07.15.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | inferred 타입으로 리턴하지 말자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/inferred%20%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C%20%EB%A6%AC%ED%84%B4%ED%95%98%EC%A7%80%20%EB%A7%90%EC%9E%90.md) |
 <!-- 
 <br>
 
