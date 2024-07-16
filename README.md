@@ -163,6 +163,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | inferred 타입으로 리턴하지 말자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/inferred%20%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C%20%EB%A6%AC%ED%84%B4%ED%95%98%EC%A7%80%20%EB%A7%90%EC%9E%90.md) |
+<br>
+
+### Day 24 (24.07.16.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Clean Code | 결과를 처리할 때는 예외보다 Failure를 활용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Clean%20Code/%EA%B2%B0%EA%B3%BC%EB%A5%BC%20%EC%B2%98%EB%A6%AC%ED%95%A0%20%EB%95%8C%EB%8A%94%20%EC%98%88%EC%99%B8%EB%B3%B4%EB%8B%A4%20Failure%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
