@@ -174,8 +174,8 @@
 ### Day 25 (24.07.17.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| Office Life | 코드 구조를 설계할 때는 설계하지 않았을 때의 문제점을 먼저 파악하자 | [🔗](https://github.com/b1urrrr/til/blob/til/Office%20Life%20/%EC%BD%94%EB%93%9C%20%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%EC%84%A4%EA%B3%84%ED%95%A0%20%EB%95%8C%EB%8A%94%20%EC%84%A4%EA%B3%84%ED%95%98%EC%A7%80%20%EC%95%8A%EC%95%98%EC%9D%84%20%EB%95%8C%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90%EC%9D%84%20%EB%A8%BC%EC%A0%80%20%ED%8C%8C%EC%95%85%ED%95%98%EC%9E%90.md) |
-| Android App Architecture | Analytics 로직은 DataSource나 Repository로 분리하지 말자 | [🔗](https://github.com/b1urrrr/til/blob/til/Architecture/Android%20App%20Architecture/Analytics%20%EB%A1%9C%EC%A7%81%EC%9D%80%20DataSource%EB%82%98%20Repository%EB%A1%9C%20%EB%B6%84%EB%A6%AC%ED%95%98%EC%A7%80%20%EB%A7%90%EC%9E%90.md) |
+| Office Life | 코드 구조를 설계할 때는 설계하지 않았을 때의 문제점을 먼저 파악하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Office%20Life%20/%EC%BD%94%EB%93%9C%20%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%EC%84%A4%EA%B3%84%ED%95%A0%20%EB%95%8C%EB%8A%94%20%EC%84%A4%EA%B3%84%ED%95%98%EC%A7%80%20%EC%95%8A%EC%95%98%EC%9D%84%20%EB%95%8C%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90%EC%9D%84%20%EB%A8%BC%EC%A0%80%20%ED%8C%8C%EC%95%85%ED%95%98%EC%9E%90.md) |
+| Android App Architecture | Analytics 로직은 DataSource나 Repository로 분리하지 말자 | [🔗](https://github.com/b1urrrr/til/blob/main/Architecture/Android%20App%20Architecture/Analytics%20%EB%A1%9C%EC%A7%81%EC%9D%80%20DataSource%EB%82%98%20Repository%EB%A1%9C%20%EB%B6%84%EB%A6%AC%ED%95%98%EC%A7%80%20%EB%A7%90%EC%9E%90.md) |
 <!-- 
 <br>
 
