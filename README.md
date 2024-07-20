@@ -176,6 +176,19 @@
 | :------: | :---: | :--: |
 | Office Life | 코드 구조를 설계할 때는 설계하지 않았을 때의 문제점을 먼저 파악하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Office%20Life%20/%EC%BD%94%EB%93%9C%20%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%EC%84%A4%EA%B3%84%ED%95%A0%20%EB%95%8C%EB%8A%94%20%EC%84%A4%EA%B3%84%ED%95%98%EC%A7%80%20%EC%95%8A%EC%95%98%EC%9D%84%20%EB%95%8C%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90%EC%9D%84%20%EB%A8%BC%EC%A0%80%20%ED%8C%8C%EC%95%85%ED%95%98%EC%9E%90.md) |
 | Android App Architecture | Analytics 로직은 DataSource나 Repository로 분리하지 말자 | [🔗](https://github.com/b1urrrr/til/blob/main/Architecture/Android%20App%20Architecture/Analytics%20%EB%A1%9C%EC%A7%81%EC%9D%80%20DataSource%EB%82%98%20Repository%EB%A1%9C%20%EB%B6%84%EB%A6%AC%ED%95%98%EC%A7%80%20%EB%A7%90%EC%9E%90.md) |
+<br>
+
+### Day 26 (24.07.18.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | Layout Inspector를 이용해 컴포넌트 트리 구조와 리컴포지션 상태를 파악하자 | [🔗](https://github.com/b1urrrr/til/blob/til/Compose/Layout%20Inspector%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%ED%8A%B8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EB%A6%AC%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%20%EC%83%81%ED%83%9C%EB%A5%BC%20%ED%8C%8C%EC%95%85%ED%95%98%EC%9E%90.md) |
+| Compose | Scaffold에 paddingValues를 지정하여 BottomBar 크기를 고려하자 | [🔗](https://github.com/b1urrrr/til/blob/til/Compose/Scaffold%EC%97%90%20paddingValues%EB%A5%BC%20%EC%A7%80%EC%A0%95%ED%95%98%EC%97%AC%20BottomBar%20%ED%81%AC%EA%B8%B0%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 27 (24.07.19.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Analytics Provider Library | 애널리틱스 이벤트나 라이브러리의 추가 및 제거에 대한 리소스를 최소화하자 | [🔗](https://github.com/b1urrrr/til/blob/til/Android%20Library/Analytics%20Provider%20Library/%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%82%98%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98%20%EC%B6%94%EA%B0%80%20%EB%B0%8F%20%EC%A0%9C%EA%B1%B0%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%A6%AC%EC%86%8C%EC%8A%A4%EB%A5%BC%20%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
