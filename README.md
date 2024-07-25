@@ -200,7 +200,7 @@
 ### Day 29 (24.07.24.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| Glide | onResourceReady()를 통해 load가 종료된 시점에 동작을 처리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Library/Glide/onResourceReady()%EB%A5%BC%20%ED%86%B5%ED%95%B4%20load%EA%B0%80%20%EC%A2%85%EB%A3%8C%EB%90%9C%20%EC%8B%9C%EC%A0%90%EC%97%90%20%EB%8F%99%EC%9E%91%EC%9D%84%20%EC%B2%98%EB%A6%AC%ED%95%98%EC%9E%90.md) |
+| Glide | Glide의 onResourceReady()를 통해 load가 종료된 시점에 동작을 처리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Library/Glide/Glide%EC%9D%98%20onResourceReady()%EB%A5%BC%20%ED%86%B5%ED%95%B4%20load%EA%B0%80%20%EC%A2%85%EB%A3%8C%EB%90%9C%20%EC%8B%9C%EC%A0%90%EC%97%90%20%EB%8F%99%EC%9E%91%EC%9D%84%20%EC%B2%98%EB%A6%AC%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
