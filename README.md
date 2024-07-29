@@ -201,6 +201,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Glide | Glide의 onResourceReady()를 통해 load가 종료된 시점에 동작을 처리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Library/Glide/Glide%EC%9D%98%20onResourceReady()%EB%A5%BC%20%ED%86%B5%ED%95%B4%20load%EA%B0%80%20%EC%A2%85%EB%A3%8C%EB%90%9C%20%EC%8B%9C%EC%A0%90%EC%97%90%20%EB%8F%99%EC%9E%91%EC%9D%84%20%EC%B2%98%EB%A6%AC%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 30 (24.07.29.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | 점진적으로 Compose로 마이그레이션하는 전략을 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C%20Compose%EB%A1%9C%20%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EB%8A%94%20%EC%A0%84%EB%9E%B5%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
