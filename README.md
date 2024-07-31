@@ -207,6 +207,13 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | 점진적으로 Compose로 마이그레이션하는 전략을 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C%20Compose%EB%A1%9C%20%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EB%8A%94%20%EC%A0%84%EB%9E%B5%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 31 (24.07.30.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kakao SDK Library | 카카오 로그인 여부를 확인할 때 토큰 유효성을 확인하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Library/Kakao%20SDK%20Library/%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%97%AC%EB%B6%80%EB%A5%BC%20%ED%99%95%EC%9D%B8%ED%95%A0%20%EB%95%8C%20%ED%86%A0%ED%81%B0%20%EC%9C%A0%ED%9A%A8%EC%84%B1%EC%9D%84%20%ED%99%95%EC%9D%B8%ED%95%98%EC%9E%90.md) |
+| Office Life | QA 가능한 방법을 고려하여 기능을 개발하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Office%20Life%20/QA%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%98%EC%97%AC%20%EA%B8%B0%EB%8A%A5%EC%9D%84%20%EA%B0%9C%EB%B0%9C%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
