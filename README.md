@@ -214,6 +214,12 @@
 | :------: | :---: | :--: |
 | Kakao SDK Library | 카카오 로그인 여부를 확인할 때 토큰 유효성을 확인하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Library/Kakao%20SDK%20Library/%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%97%AC%EB%B6%80%EB%A5%BC%20%ED%99%95%EC%9D%B8%ED%95%A0%20%EB%95%8C%20%ED%86%A0%ED%81%B0%20%EC%9C%A0%ED%9A%A8%EC%84%B1%EC%9D%84%20%ED%99%95%EC%9D%B8%ED%95%98%EC%9E%90.md) |
 | Office Life | QA 가능한 방법을 고려하여 기능을 개발하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Office%20Life%20/QA%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%98%EC%97%AC%20%EA%B8%B0%EB%8A%A5%EC%9D%84%20%EA%B0%9C%EB%B0%9C%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 32 (24.07.31.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | 클래스 생성 중 초기화할 수 없는 프로퍼티는 lateinit과 Delegates.notNull을 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%83%9D%EC%84%B1%20%EC%A4%91%20%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8A%94%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EB%8A%94%20lateinit%EA%B3%BC%20Delegates.notNull%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
