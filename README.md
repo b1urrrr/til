@@ -220,6 +220,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | 클래스 생성 중 초기화할 수 없는 프로퍼티는 lateinit과 Delegates.notNull을 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%83%9D%EC%84%B1%20%EC%A4%91%20%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8A%94%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EB%8A%94%20lateinit%EA%B3%BC%20Delegates.notNull%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 33 (24.08.01.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | close 대신 use를 사용하여 리소스를 해제하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/close%20%EB%8C%80%EC%8B%A0%20use%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%A6%AC%EC%86%8C%EC%8A%A4%EB%A5%BC%20%ED%95%B4%EC%A0%9C%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
