@@ -150,7 +150,7 @@
 ### Day 21 (24.07.11.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| Android Component | WebView에 domStorageEnable을 설정하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/WebView%EC%97%90%20domStorageEnable%EC%9D%84%20%EC%84%A4%EC%A0%95%ED%95%98%EC%9E%90.md) |
+| WebView | WebView에 domStorageEnable을 설정하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/WebView/WebView%EC%97%90%20domStorageEnable%EC%9D%84%20%EC%84%A4%EC%A0%95%ED%95%98%EC%9E%90.md) |
 <br>
 
 ### Day 22 (24.07.12.)
@@ -226,6 +226,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | close 대신 use를 사용하여 리소스를 해제하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/close%20%EB%8C%80%EC%8B%A0%20use%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%A6%AC%EC%86%8C%EC%8A%A4%EB%A5%BC%20%ED%95%B4%EC%A0%9C%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 34 (24.08.02.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| WebView | 웹뷰의 shouldOverrideUrlLoading()을 통해 웹 페이지 또는 intent를 처리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/WebView/%EC%9B%B9%EB%B7%B0%EC%9D%98%20shouldOverrideUrlLoading()%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EC%9B%B9%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%98%90%EB%8A%94%20intent%EB%A5%BC%20%EC%B2%98%EB%A6%AC%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
