@@ -232,6 +232,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | WebView | 웹뷰의 shouldOverrideUrlLoading()을 통해 웹 페이지 또는 intent를 처리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/WebView/%EC%9B%B9%EB%B7%B0%EC%9D%98%20shouldOverrideUrlLoading()%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EC%9B%B9%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%98%90%EB%8A%94%20intent%EB%A5%BC%20%EC%B2%98%EB%A6%AC%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 35 (24.08.06.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Intent | 인텐트에 액션과 데이터 스키마를 지정하여 다른 앱에서의 처리를 구현하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/Intent/%EC%9D%B8%ED%85%90%ED%8A%B8%EC%97%90%20%EC%95%A1%EC%85%98%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8A%A4%ED%82%A4%EB%A7%88%EB%A5%BC%20%EC%A7%80%EC%A0%95%ED%95%98%EC%97%AC%20%EB%8B%A4%EB%A5%B8%20%EC%95%B1%EC%97%90%EC%84%9C%EC%9D%98%20%EC%B2%98%EB%A6%AC%EB%A5%BC%20%EA%B5%AC%ED%98%84%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
