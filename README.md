@@ -244,6 +244,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | CRM | CRM 툴을 통해 개인화된 마케팅 기능을 자동화하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Library/CRM/CRM%20%ED%88%B4%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EA%B0%9C%EC%9D%B8%ED%99%94%EB%90%9C%20%EB%A7%88%EC%BC%80%ED%8C%85%20%EA%B8%B0%EB%8A%A5%EC%9D%84%20%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 37 (24.08.08.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | 변수 타입이 명확하지 않은 경우 확실하게 지정하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EB%B3%80%EC%88%98%20%ED%83%80%EC%9E%85%EC%9D%B4%20%EB%AA%85%ED%99%95%ED%95%98%EC%A7%80%20%EC%95%8A%EC%9D%80%20%EA%B2%BD%EC%9A%B0%20%ED%99%95%EC%8B%A4%ED%95%98%EA%B2%8C%20%EC%A7%80%EC%A0%95%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
