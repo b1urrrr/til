@@ -250,6 +250,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | 변수 타입이 명확하지 않은 경우 확실하게 지정하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EB%B3%80%EC%88%98%20%ED%83%80%EC%9E%85%EC%9D%B4%20%EB%AA%85%ED%99%95%ED%95%98%EC%A7%80%20%EC%95%8A%EC%9D%80%20%EA%B2%BD%EC%9A%B0%20%ED%99%95%EC%8B%A4%ED%95%98%EA%B2%8C%20%EC%A7%80%EC%A0%95%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 38 (24.08.09.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | ViewModel을 공유하여 XML 기반의 뷰에서 ComposeView의 상태를 바꾸자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/ViewModel%EC%9D%84%20%EA%B3%B5%EC%9C%A0%ED%95%98%EC%97%AC%20XML%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%B7%B0%EC%97%90%EC%84%9C%20ComposeView%EC%9D%98%20%EC%83%81%ED%83%9C%EB%A5%BC%20%EB%B0%94%EA%BE%B8%EC%9E%90.md) |
 <!-- 
 <br>
 
