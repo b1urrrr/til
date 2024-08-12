@@ -256,6 +256,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | ViewModel을 공유하여 XML 기반의 뷰에서 ComposeView의 상태를 바꾸자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/ViewModel%EC%9D%84%20%EA%B3%B5%EC%9C%A0%ED%95%98%EC%97%AC%20XML%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%B7%B0%EC%97%90%EC%84%9C%20ComposeView%EC%9D%98%20%EC%83%81%ED%83%9C%EB%A5%BC%20%EB%B0%94%EA%BE%B8%EC%9E%90.md) |
+<br>
+
+### Day 39 (24.08.10.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| CoordinatorLayout | BottomSheetBehavior를 통해 적절한 CoordinatorLayout 자식 뷰 상태를 지정하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/CoordinatorLayout/BottomSheetBehavior%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%A0%81%EC%A0%88%ED%95%9C%20CoordinatorLayout%20%EC%9E%90%EC%8B%9D%20%EB%B7%B0%20%EC%83%81%ED%83%9C%EB%A5%BC%20%EC%A7%80%EC%A0%95%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
