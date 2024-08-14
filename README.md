@@ -262,6 +262,13 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | CoordinatorLayout | BottomSheetBehavior를 통해 적절한 CoordinatorLayout 자식 뷰 상태를 지정하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/CoordinatorLayout/BottomSheetBehavior%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%A0%81%EC%A0%88%ED%95%9C%20CoordinatorLayout%20%EC%9E%90%EC%8B%9D%20%EB%B7%B0%20%EC%83%81%ED%83%9C%EB%A5%BC%20%EC%A7%80%EC%A0%95%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 40 (24.08.14.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | @DslMarker를 활용하여 외부 리시버 사용을 제한하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%40DslMarker%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%99%B8%EB%B6%80%20%EB%A6%AC%EC%8B%9C%EB%B2%84%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%A0%9C%ED%95%9C%ED%95%98%EC%9E%90.md) |
+
 <!-- 
 <br>
 
