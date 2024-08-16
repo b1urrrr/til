@@ -268,6 +268,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | @DslMarker를 활용하여 외부 리시버 사용을 제한하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%40DslMarker%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%99%B8%EB%B6%80%20%EB%A6%AC%EC%8B%9C%EB%B2%84%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%A0%9C%ED%95%9C%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 41 (24.08.16.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Office Life | 새로운 버전의 앱을 배포할 때에는 이전 버전과의 호환성을 확인하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Office%20Life%20/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%B2%84%EC%A0%84%EC%9D%98%20%EC%95%B1%EC%9D%84%20%EB%B0%B0%ED%8F%AC%ED%95%A0%20%EB%95%8C%EC%97%90%EB%8A%94%20%EC%9D%B4%EC%A0%84%20%EB%B2%84%EC%A0%84%EA%B3%BC%EC%9D%98%20%ED%98%B8%ED%99%98%EC%84%B1%EC%9D%84%20%ED%99%95%EC%9D%B8%ED%95%98%EC%9E%90.md) |
 
 <!-- 
 <br>
