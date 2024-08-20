@@ -274,7 +274,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Office Life | 새로운 버전의 앱을 배포할 때에는 이전 버전과의 호환성을 확인하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Office%20Life%20/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%B2%84%EC%A0%84%EC%9D%98%20%EC%95%B1%EC%9D%84%20%EB%B0%B0%ED%8F%AC%ED%95%A0%20%EB%95%8C%EC%97%90%EB%8A%94%20%EC%9D%B4%EC%A0%84%20%EB%B2%84%EC%A0%84%EA%B3%BC%EC%9D%98%20%ED%98%B8%ED%99%98%EC%84%B1%EC%9D%84%20%ED%99%95%EC%9D%B8%ED%95%98%EC%9E%90.md) |
+<br>
 
+### Day 42 (24.08.20.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| URLEncoder | URLEncoder를 통해 HTML 형식으로 인코딩하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/URLEncoder/URLEncoder%EB%A5%BC%20%ED%86%B5%ED%95%B4%20HTML%20%ED%98%95%EC%8B%9D%EC%9C%BC%EB%A1%9C%20%EC%9D%B8%EC%BD%94%EB%94%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
