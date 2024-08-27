@@ -286,6 +286,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Analytics Provider Library | 각 애널리틱스 라이브러리의 특성을 이해하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Library/Analytics%20Provider%20Library/%EA%B0%81%20%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98%20%ED%8A%B9%EC%84%B1%EC%9D%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 44 (24.08.22.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Office Life | 스테이징 서버를 통해 운영 서버와 유사한 환경에서 검증하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Office%20Life%20/%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%95%20%EC%84%9C%EB%B2%84%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%9A%B4%EC%98%81%20%EC%84%9C%EB%B2%84%EC%99%80%20%EC%9C%A0%EC%82%AC%ED%95%9C%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%20%EA%B2%80%EC%A6%9D%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
