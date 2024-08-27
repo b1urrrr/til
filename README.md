@@ -292,6 +292,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Office Life | 스테이징 서버를 통해 운영 서버와 유사한 환경에서 검증하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Office%20Life%20/%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%95%20%EC%84%9C%EB%B2%84%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%9A%B4%EC%98%81%20%EC%84%9C%EB%B2%84%EC%99%80%20%EC%9C%A0%EC%82%AC%ED%95%9C%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%20%EA%B2%80%EC%A6%9D%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 45 (24.08.27.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Activity | 액티비티 launchMode로 singleTask나 singleInstance를 지정하는 것을 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/Activity/%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0%20launchMode%EB%A1%9C%20singleTask%EB%82%98%20singleInstance%EB%A5%BC%20%EC%A7%80%EC%A0%95%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
