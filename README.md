@@ -298,6 +298,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Activity | 액티비티 launchMode로 singleTask나 singleInstance를 지정하는 것을 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/Activity/%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0%20launchMode%EB%A1%9C%20singleTask%EB%82%98%20singleInstance%EB%A5%BC%20%EC%A7%80%EC%A0%95%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 46 (24.08.29.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | Screen 단에서의 HiltViewModel 생성을 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Screen%20%EB%8B%A8%EC%97%90%EC%84%9C%EC%9D%98%20HiltViewModel%20%EC%83%9D%EC%84%B1%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
