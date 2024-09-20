@@ -310,6 +310,13 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | Modifier 함수 간의 순서를 고려하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Modifier%20%ED%95%A8%EC%88%98%20%EA%B0%84%EC%9D%98%20%EC%88%9C%EC%84%9C%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 48 (24.09.20.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | 멤버 확장 함수 사용을 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EB%A9%A4%EB%B2%84%20%ED%99%95%EC%9E%A5%20%ED%95%A8%EC%88%98%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
+
 <!-- 
 <br>
 
