@@ -304,6 +304,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | Screen 단에서의 HiltViewModel 생성을 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Screen%20%EB%8B%A8%EC%97%90%EC%84%9C%EC%9D%98%20HiltViewModel%20%EC%83%9D%EC%84%B1%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 47 (24.09.19.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | Modifier 함수 간의 순서를 고려하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Modifier%20%ED%95%A8%EC%88%98%20%EA%B0%84%EC%9D%98%20%EC%88%9C%EC%84%9C%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
