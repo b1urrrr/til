@@ -316,6 +316,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | 멤버 확장 함수 사용을 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EB%A9%A4%EB%B2%84%20%ED%99%95%EC%9E%A5%20%ED%95%A8%EC%88%98%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 49 (24.09.23.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | 컬렉션의 처리 단계 수를 제한하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%98%20%EC%B2%98%EB%A6%AC%20%EB%8B%A8%EA%B3%84%20%EC%88%98%EB%A5%BC%20%EC%A0%9C%ED%95%9C%ED%95%98%EC%9E%90.md) |
 
 <!-- 
 <br>
