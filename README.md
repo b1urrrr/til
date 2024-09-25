@@ -328,6 +328,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | 성능이 중요한 경우에 기본 자료형 배열을 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EC%84%B1%EB%8A%A5%EC%9D%B4%20%EC%A4%91%EC%9A%94%ED%95%9C%20%EA%B2%BD%EC%9A%B0%EC%97%90%20%EA%B8%B0%EB%B3%B8%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EB%B0%B0%EC%97%B4%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 51 (24.09.25.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | 지역 스코프에서는 mutable 컬렉션을 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/til/Language/Kotlin/%EC%A7%80%EC%97%AD%20%EC%8A%A4%EC%BD%94%ED%94%84%EC%97%90%EC%84%9C%EB%8A%94%20mutable%20%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 
 <!-- 
 <br>
