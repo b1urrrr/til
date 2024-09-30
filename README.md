@@ -340,7 +340,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | 함수와 메서드의 차이를 이해하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%ED%95%A8%EC%88%98%EC%99%80%20%EB%A9%94%EC%84%9C%EB%93%9C%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%9D%B4%ED%95%B4%ED%95%98%EC%9E%90.md) |
+<br>
 
+### Day 53 (24.09.30.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | let을 적절한 상황에 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/let%EC%9D%84%20%EC%A0%81%EC%A0%88%ED%95%9C%20%EC%83%81%ED%99%A9%EC%97%90%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
