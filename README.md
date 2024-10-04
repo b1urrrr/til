@@ -352,6 +352,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | 사이드 이펙트가 발생하는 로직은 LaunchedEffect 스코프 내부에서 호출하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/%EC%82%AC%EC%9D%B4%EB%93%9C%20%EC%9D%B4%ED%8E%99%ED%8A%B8%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EB%A1%9C%EC%A7%81%EC%9D%80%20LaunchedEffect%20%EC%8A%A4%EC%BD%94%ED%94%84%20%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C%20%ED%98%B8%EC%B6%9C%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 55 (24.10.04.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | 전역적인 ModalBottomSheet 사용을 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/%EC%A0%84%EC%97%AD%EC%A0%81%EC%9D%B8%20ModalBottomSheet%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
