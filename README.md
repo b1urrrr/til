@@ -358,6 +358,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | 전역적인 ModalBottomSheet 사용을 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/%EC%A0%84%EC%97%AD%EC%A0%81%EC%9D%B8%20ModalBottomSheet%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 56 (24.10.05.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Database | DB 작업 시 Delete와 Update를 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Database/DB%20%EC%9E%91%EC%97%85%20%EC%8B%9C%20Delete%EC%99%80%20Update%EB%A5%BC%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
