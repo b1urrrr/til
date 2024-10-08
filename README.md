@@ -364,6 +364,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Database | DB 작업 시 Delete와 Update를 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Database/DB%20%EC%9E%91%EC%97%85%20%EC%8B%9C%20Delete%EC%99%80%20Update%EB%A5%BC%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 57 (24.10.08.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | 변수의 스코프를 최소화하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EB%B3%80%EC%88%98%EC%9D%98%20%EC%8A%A4%EC%BD%94%ED%94%84%EB%A5%BC%20%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
