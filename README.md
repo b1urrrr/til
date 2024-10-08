@@ -357,7 +357,7 @@
 ### Day 55 (24.10.04.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| Compose | 전역적인 ModalBottomSheet 사용을 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/%EC%A0%84%EC%97%AD%EC%A0%81%EC%9D%B8%20ModalBottomSheet%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
+| Compose | 비전역적인 ModalBottomSheet 사용을 지양하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/%EB%B9%84%EC%A0%84%EC%97%AD%EC%A0%81%EC%9D%B8%20ModalBottomSheet%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%A7%80%EC%96%91%ED%95%98%EC%9E%90.md) |
 <br>
 
 ### Day 56 (24.10.07.)
