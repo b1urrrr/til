@@ -1,5 +1,5 @@
-## 전역적인 ModalBottomSheet 사용을 지양하자
-- Fragment에서 ModalBottomSheet의 리소스를 관리하는 등 전역적인 ModalBottomSheet 사용은 지양할 것
+## 비전역적인 ModalBottomSheet 사용을 지양하자
+- Fragment에서 ModalBottomSheet의 리소스를 관리하는 등 전역적이지 않은 ModalBottomSheet 사용은 지양할 것
 ### Fragment에서 ModalBottomSheet 사용하면 안 되는 이유
 - **생명주기 관리의 복잡성 증가**
   - 프래그먼트 상태 변경 시 ModalBottomSheet 생명주기 관리가 어려움
