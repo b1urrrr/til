@@ -370,6 +370,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | 변수의 스코프를 최소화하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EB%B3%80%EC%88%98%EC%9D%98%20%EC%8A%A4%EC%BD%94%ED%94%84%EB%A5%BC%20%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 58 (24.10.10.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | Collection과 Sequence를 적절히 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/Collection%EA%B3%BC%20Sequence%EB%A5%BC%20%EC%A0%81%EC%A0%88%ED%9E%88%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
