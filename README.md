@@ -376,6 +376,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | Collection과 Sequence를 적절히 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/Collection%EA%B3%BC%20Sequence%EB%A5%BC%20%EC%A0%81%EC%A0%88%ED%9E%88%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 59 (24.10.11.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | sealed class와 enum class를 적절히 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/sealed%20class%EC%99%80%20enum%20class%EB%A5%BC%20%EC%A0%81%EC%A0%88%ED%9E%88%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
