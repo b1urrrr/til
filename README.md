@@ -394,6 +394,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | Modifier.drawWithCache()를 통해 컴포저블 뷰를 Bitmap 이미지로 변환하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Modifier.drawWithCache()%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%BB%B4%ED%8F%AC%EC%A0%80%EB%B8%94%20%EB%B7%B0%EB%A5%BC%20Bitmap%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 62 (24.10.16.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | 예외를 활용해 코드에 제한을 걸자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EC%98%88%EC%99%B8%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%B4%20%EC%BD%94%EB%93%9C%EC%97%90%20%EC%A0%9C%ED%95%9C%EC%9D%84%20%EA%B1%B8%EC%9E%90.md) |
 <!-- 
 <br>
 
