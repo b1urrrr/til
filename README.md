@@ -388,6 +388,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | ViewModel | Extra를 전달 받을 때 SavedStateHandle을 활용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/ViewModel/Extra%EB%A5%BC%20%EC%A0%84%EB%8B%AC%20%EB%B0%9B%EC%9D%84%20%EB%95%8C%20SavedStateHandle%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 61 (24.10.15.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | Modifier.drawWithCache()를 통해 컴포저블 뷰를 Bitmap 이미지로 변환하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Modifier.drawWithCache()%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%BB%B4%ED%8F%AC%EC%A0%80%EB%B8%94%20%EB%B7%B0%EB%A5%BC%20Bitmap%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
