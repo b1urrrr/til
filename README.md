@@ -400,6 +400,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | 예외를 활용해 코드에 제한을 걸자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EC%98%88%EC%99%B8%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%B4%20%EC%BD%94%EB%93%9C%EC%97%90%20%EC%A0%9C%ED%95%9C%EC%9D%84%20%EA%B1%B8%EC%9E%90.md) |
+<br>
+
+### Day 63 (24.10.18.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | 액티비티를 탐색하여 참조해야하는 경우 baseContext를 활용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0%EB%A5%BC%20%ED%83%90%EC%83%89%ED%95%98%EC%97%AC%20%EC%B0%B8%EC%A1%B0%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%20baseContext%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
