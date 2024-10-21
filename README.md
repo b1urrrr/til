@@ -406,6 +406,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | 액티비티를 탐색하여 참조해야하는 경우 baseContext를 활용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0%EB%A5%BC%20%ED%83%90%EC%83%89%ED%95%98%EC%97%AC%20%EC%B0%B8%EC%A1%B0%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%20baseContext%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 64 (24.10.21.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Android Library | 외부 라이브러리를 사용할 때 추상화가 되어있는 영역을 파악하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Library/%EC%99%B8%EB%B6%80%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20%EC%B6%94%EC%83%81%ED%99%94%EA%B0%80%20%EB%90%98%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%98%81%EC%97%AD%EC%9D%84%20%ED%8C%8C%EC%95%85%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
