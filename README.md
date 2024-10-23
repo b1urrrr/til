@@ -412,6 +412,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Android Library | 외부 라이브러리를 사용할 때 추상화가 되어있는 영역을 파악하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Library/%EC%99%B8%EB%B6%80%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20%EC%B6%94%EC%83%81%ED%99%94%EA%B0%80%20%EB%90%98%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%98%81%EC%97%AD%EC%9D%84%20%ED%8C%8C%EC%95%85%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 65 (24.10.22.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | Compose에서 블러 효과를 구현하는 다양한 방식을 구분하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Compose%EC%97%90%EC%84%9C%20%EB%B8%94%EB%9F%AC%20%ED%9A%A8%EA%B3%BC%EB%A5%BC%20%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EC%8B%9D%EC%9D%84%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
