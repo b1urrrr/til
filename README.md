@@ -418,6 +418,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | Compose에서 블러 효과를 구현하는 다양한 방식을 구분하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Compose%EC%97%90%EC%84%9C%20%EB%B8%94%EB%9F%AC%20%ED%9A%A8%EA%B3%BC%EB%A5%BC%20%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EC%8B%9D%EC%9D%84%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 66 (24.10.23.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | Nested Graph를 통해 복잡한 Compose 네비게이션 동작을 구현하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Nested%20Graph%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EB%B3%B5%EC%9E%A1%ED%95%9C%20Compose%20%EB%84%A4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98%20%EB%8F%99%EC%9E%91%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
