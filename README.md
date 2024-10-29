@@ -424,6 +424,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | Nested Graph를 통해 복잡한 Compose 네비게이션 동작을 구현하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Nested%20Graph%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EB%B3%B5%EC%9E%A1%ED%95%9C%20Compose%20%EB%84%A4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98%20%EB%8F%99%EC%9E%91%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 67 (24.10.28.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| WebView | pauseTimers()와 resumeTimers()를 통해 WebView의 리소스를 관리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/WebView/pauseTimers()%EC%99%80%20resumeTimers()%EB%A5%BC%20%ED%86%B5%ED%95%B4%20WebView%EC%9D%98%20%EB%A6%AC%EC%86%8C%EC%8A%A4%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
