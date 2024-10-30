@@ -430,6 +430,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | WebView | pauseTimers()와 resumeTimers()를 통해 WebView의 리소스를 관리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/WebView/pauseTimers()%EC%99%80%20resumeTimers()%EB%A5%BC%20%ED%86%B5%ED%95%B4%20WebView%EC%9D%98%20%EB%A6%AC%EC%86%8C%EC%8A%A4%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 68 (24.10.29.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Orbit | Orbit으로 State와 SideEffect를 관리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Library/Orbit/Orbit%EC%9C%BC%EB%A1%9C%20State%EC%99%80%20SideEffect%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
