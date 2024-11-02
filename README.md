@@ -442,6 +442,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | Compose 뷰에서 무거운 연산 작업을 하는 경우에는 remember에 key 값을 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Compose%20%EB%B7%B0%EC%97%90%EC%84%9C%20%EB%AC%B4%EA%B1%B0%EC%9A%B4%20%EC%97%B0%EC%82%B0%20%EC%9E%91%EC%97%85%EC%9D%84%20%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EC%97%90%EB%8A%94%20remember%EC%97%90%20key%20%EA%B0%92%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 70 (24.11.01.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | require 함수를 통해 함수 argument에 제한을 걸자 | [🔗](https://github.com/b1urrrr/til/blob/til/Language/Kotlin/require%20%ED%95%A8%EC%88%98%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%95%A8%EC%88%98%20argument%EC%97%90%20%EC%A0%9C%ED%95%9C%EC%9D%84%20%EA%B1%B8%EC%9E%90.md) |
 <!-- 
 <br>
 
