@@ -447,7 +447,7 @@
 ### Day 70 (24.11.01.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| Kotlin | require 함수를 통해 함수 argument에 제한을 걸자 | [🔗](https://github.com/b1urrrr/til/blob/til/Language/Kotlin/require%20%ED%95%A8%EC%88%98%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%95%A8%EC%88%98%20argument%EC%97%90%20%EC%A0%9C%ED%95%9C%EC%9D%84%20%EA%B1%B8%EC%9E%90.md) |
+| Kotlin | require 함수를 통해 함수 argument에 제한을 걸자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/require%20%ED%95%A8%EC%88%98%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%95%A8%EC%88%98%20argument%EC%97%90%20%EC%A0%9C%ED%95%9C%EC%9D%84%20%EA%B1%B8%EC%9E%90.md) |
 <!-- 
 <br>
 
