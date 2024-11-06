@@ -447,7 +447,13 @@
 ### Day 70 (24.11.01.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| Kotlin | require 함수를 통해 함수 argument에 제한을 걸자 | [🔗](https://github.com/b1urrrr/til/blob/til/Language/Kotlin/require%20%ED%95%A8%EC%88%98%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%95%A8%EC%88%98%20argument%EC%97%90%20%EC%A0%9C%ED%95%9C%EC%9D%84%20%EA%B1%B8%EC%9E%90.md) |
+| Kotlin | require 함수를 통해 함수 argument에 제한을 걸자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/require%20%ED%95%A8%EC%88%98%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%95%A8%EC%88%98%20argument%EC%97%90%20%EC%A0%9C%ED%95%9C%EC%9D%84%20%EA%B1%B8%EC%9E%90.md) |
+<br>
+
+### Day 71 (24.11.05.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Test | 단위 테스트의 장단점과 활용하기 적합한 케이스를 파악하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Test/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90%EA%B3%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0%20%EC%A0%81%ED%95%A9%ED%95%9C%20%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC%20%ED%8C%8C%EC%95%85%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
