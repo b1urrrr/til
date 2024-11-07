@@ -454,6 +454,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Test | 단위 테스트의 장단점과 활용하기 적합한 케이스를 파악하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Test/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90%EA%B3%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0%20%EC%A0%81%ED%95%A9%ED%95%9C%20%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC%20%ED%8C%8C%EC%95%85%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 72 (24.11.07.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | 연산자 오버로딩 시 의미에 맞게 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EC%97%B0%EC%82%B0%EC%9E%90%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%20%EC%8B%9C%20%EC%9D%98%EB%AF%B8%EC%97%90%20%EB%A7%9E%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
