@@ -460,6 +460,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | 연산자 오버로딩 시 의미에 맞게 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EC%97%B0%EC%82%B0%EC%9E%90%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%20%EC%8B%9C%20%EC%9D%98%EB%AF%B8%EC%97%90%20%EB%A7%9E%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 73 (24.11.08.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | 프로퍼티와 함수를 적절히 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%99%80%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%A0%81%EC%A0%88%ED%9E%88%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
