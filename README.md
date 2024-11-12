@@ -472,6 +472,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Clean Code | 일반적인 알고리즘을 구현하는 경우 제네릭을 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Clean%20Code/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%20%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 75 (24.11.12.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | Scaffold 하단에 독립적인 버튼이 있는 경우 bottomBar를 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Scaffold%20%ED%95%98%EB%8B%A8%EC%97%90%20%EB%8F%85%EB%A6%BD%EC%A0%81%EC%9D%B8%20%EB%B2%84%ED%8A%BC%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EA%B2%BD%EC%9A%B0%20bottomBar%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
