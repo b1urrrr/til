@@ -466,6 +466,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | 프로퍼티와 함수를 적절히 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%99%80%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%A0%81%EC%A0%88%ED%9E%88%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 74 (24.11.11.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Clean Code | 일반적인 알고리즘을 구현하는 경우 제네릭을 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Clean%20Code/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%20%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
