@@ -484,6 +484,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | Enum 타입에 대해 분기 처리가 복잡해지는 경우 Enum 클래스에 프로퍼티를 추가하여 상태를 캡슐화하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/Enum%20%ED%83%80%EC%9E%85%EC%97%90%20%EB%8C%80%ED%95%B4%20%EB%B6%84%EA%B8%B0%20%EC%B2%98%EB%A6%AC%EA%B0%80%20%EB%B3%B5%EC%9E%A1%ED%95%B4%EC%A7%80%EB%8A%94%20%EA%B2%BD%EC%9A%B0%20Enum%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%83%81%ED%83%9C%EB%A5%BC%20%EC%BA%A1%EC%8A%90%ED%99%94%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 77 (24.11.15.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Android Studio | 안드로이드의 메모리 누수 탐지 도구를 활용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Studio/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%88%84%EC%88%98%20%ED%83%90%EC%A7%80%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
