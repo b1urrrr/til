@@ -490,6 +490,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Android Studio | 안드로이드의 메모리 누수 탐지 도구를 활용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Studio/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%88%84%EC%88%98%20%ED%83%90%EC%A7%80%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 78 (24.11.18.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| View | 안드로이드 View의 생명주기를 이해하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/View/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20View%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%EB%A5%BC%20%EC%9D%B4%ED%95%B4%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
