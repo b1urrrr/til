@@ -514,6 +514,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Office Life | 확장 가능성이 있는 기능은 서버에서 동적으로 수정 가능하도록 설계하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Office%20Life%20/%ED%99%95%EC%9E%A5%20%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EA%B8%B0%EB%8A%A5%EC%9D%80%20%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C%20%EB%8F%99%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%88%98%EC%A0%95%20%EA%B0%80%EB%8A%A5%ED%95%98%EB%8F%84%EB%A1%9D%20%EC%84%A4%EA%B3%84%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 82 (24.12.04.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Office Life | 프로젝트 설계 단계에서 Tech Spec 문서를 통해 목표와 개발 범위를 정리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Office%20Life%20/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EA%B3%84%20%EB%8B%A8%EA%B3%84%EC%97%90%EC%84%9C%20Tech%20Spec%20%EB%AC%B8%EC%84%9C%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EB%AA%A9%ED%91%9C%EC%99%80%20%EA%B0%9C%EB%B0%9C%20%EB%B2%94%EC%9C%84%EB%A5%BC%20%EC%A0%95%EB%A6%AC%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
