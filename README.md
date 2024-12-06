@@ -520,6 +520,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Office Life | 프로젝트 설계 단계에서 Tech Spec 문서를 통해 목표와 개발 범위를 정리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Office%20Life%20/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EA%B3%84%20%EB%8B%A8%EA%B3%84%EC%97%90%EC%84%9C%20Tech%20Spec%20%EB%AC%B8%EC%84%9C%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EB%AA%A9%ED%91%9C%EC%99%80%20%EA%B0%9C%EB%B0%9C%20%EB%B2%94%EC%9C%84%EB%A5%BC%20%EC%A0%95%EB%A6%AC%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 83 (24.12.06.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | 단발성 이벤트 처리 시 Flow 대신 Channel을 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EB%8B%A8%EB%B0%9C%EC%84%B1%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC%20%EC%8B%9C%20Flow%20%EB%8C%80%EC%8B%A0%20Channel%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
