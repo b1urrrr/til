@@ -526,6 +526,13 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | 단발성 이벤트 처리 시 Flow 대신 Channel을 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EB%8B%A8%EB%B0%9C%EC%84%B1%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC%20%EC%8B%9C%20Flow%20%EB%8C%80%EC%8B%A0%20Channel%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 84 (24.12.09.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Coding Principles | 로직과 알고리즘을 구분하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Coding%20Principles/%EB%A1%9C%EC%A7%81%EA%B3%BC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%9E%90.md) |
+| Clean Architecture | 재사용을 위해 코드를 추출하는 경우 단일 책임 원칙을 고려하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Architecture/Clean%20Architecture/%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%9C%84%ED%95%B4%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%B6%94%EC%B6%9C%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%20%EB%8B%A8%EC%9D%BC%20%EC%B1%85%EC%9E%84%20%EC%9B%90%EC%B9%99%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
