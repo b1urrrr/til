@@ -533,6 +533,12 @@
 | :------: | :---: | :--: |
 | Coding Principles | 로직과 알고리즘을 구분하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Coding%20Principles/%EB%A1%9C%EC%A7%81%EA%B3%BC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%9E%90.md) |
 | Clean Architecture | 재사용을 위해 코드를 추출하는 경우 단일 책임 원칙을 고려하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Architecture/Clean%20Architecture/%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%9C%84%ED%95%B4%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%B6%94%EC%B6%9C%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%20%EB%8B%A8%EC%9D%BC%20%EC%B1%85%EC%9E%84%20%EC%9B%90%EC%B9%99%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 85 (24.12.10.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | 일반적인 프로퍼티의 행위는 프로퍼티 위임으로 추출하여 재사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%9D%98%20%ED%96%89%EC%9C%84%EB%8A%94%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%9C%84%EC%9E%84%EC%9C%BC%EB%A1%9C%20%EC%B6%94%EC%B6%9C%ED%95%98%EC%97%AC%20%EC%9E%AC%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
