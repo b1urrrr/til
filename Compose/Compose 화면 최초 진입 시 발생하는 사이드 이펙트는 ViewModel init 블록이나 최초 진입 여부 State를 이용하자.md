@@ -10,7 +10,7 @@ init {
 ```
 ### 최초 진입 여부 State 활용
 ```
-LaunchedEffect(needRefresh) {
-    if (needRefresh) { ... }
+LaunchedEffect(isInitialLaunch) {
+    if (isInitialLaunch) { ... }
 }
 ```
