@@ -550,7 +550,7 @@
 ### Day 87 (24.12.13.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| Compose | Compose 화면 최초 진입 시 발생하는 사이드 이펙트는 ViewModel init 블록이나 최초 진입 여부 State를 이용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Compose%20%ED%99%94%EB%A9%B4%20%EC%B5%9C%EC%B4%88%20%EC%A7%84%EC%9E%85%20%EC%8B%9C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EC%9D%B4%ED%8E%99%ED%8A%B8%EB%8A%94%20ViewModel%20init%20%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%82%98%20%EC%B5%9C%EC%B4%88%20%EC%A7%84%EC%9E%85%20%EC%97%AC%EB%B6%80%20State%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+| Compose | Compose 화면 최초 진입 시 발생하는 사이드 이펙트는 LaunchedEffect(Unit)를 사용하지 말자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Compose%20%ED%99%94%EB%A9%B4%20%EC%B5%9C%EC%B4%88%20%EC%A7%84%EC%9E%85%20%EC%8B%9C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EC%9D%B4%ED%8E%99%ED%8A%B8%EB%8A%94%20LaunchedEffect(Unit)%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80%20%EB%A7%90%EC%9E%90.md) |
 
 <!-- 
 <br>
