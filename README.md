@@ -570,7 +570,13 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | Compose 컴포넌트를 구현할 때 Material에 대한 의존성을 최소화하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Compose%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC%20%EA%B5%AC%ED%98%84%ED%95%A0%20%EB%95%8C%20Material%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%84%20%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EC%9E%90.md) |
-| Github | Github 라이선스 종류를 구분하자 | [🔗](https://github.com/b1urrrr/main/blob/til/Github/Github%20%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%20%EC%A2%85%EB%A5%98%EB%A5%BC%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%9E%90.md) |
+| Github | Github 라이선스 종류를 구분하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Github/Github%20%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%20%EC%A2%85%EB%A5%98%EB%A5%BC%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 91 (24.12.25.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | ImageVector와 PainterResource를 적절히 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/ImageVector%EC%99%80%20PainterResource%EB%A5%BC%20%EC%A0%81%EC%A0%88%ED%9E%88%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
