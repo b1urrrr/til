@@ -578,6 +578,12 @@
 | :------: | :---: | :--: |
 | Compose | ImageVector와 PainterResource를 적절히 사용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/ImageVector%EC%99%80%20PainterResource%EB%A5%BC%20%EC%A0%81%EC%A0%88%ED%9E%88%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 | Coding Principles | 설계와 아키텍처 개념을 구분하자 | [🔗](https://github.com/b1urrrr/til/blob/til/Coding%20Principles/%EC%84%A4%EA%B3%84%EC%99%80%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EA%B0%9C%EB%85%90%EC%9D%84%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 92 (24.12.29.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Clean Architecture | Mapper 클래스를 통해 컴포넌트 간 의존성의 방향을 제어하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Architecture/Clean%20Architecture/Mapper%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EA%B0%84%20%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%98%20%EB%B0%A9%ED%96%A5%EC%9D%84%20%EC%A0%9C%EC%96%B4%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
