@@ -596,6 +596,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | Slot Pattern을 통해 컴포저블의 특정 영역을 외부에서 자유롭게 구성하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Slot%20Pattern%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EC%BB%B4%ED%8F%AC%EC%A0%80%EB%B8%94%EC%9D%98%20%ED%8A%B9%EC%A0%95%20%EC%98%81%EC%97%AD%EC%9D%84%20%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C%20%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B2%8C%20%EA%B5%AC%EC%84%B1%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 95 (25.01.06.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Android Tool | R8을 통해 효율적으로 앱을 최적화하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Tool/R8%EC%9D%84%20%ED%86%B5%ED%95%B4%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%95%B1%EC%9D%84%20%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
