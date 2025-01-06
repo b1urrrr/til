@@ -586,10 +586,16 @@
 | Clean Architecture | Mapper 클래스를 통해 컴포넌트 간 의존성의 방향을 제어하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Architecture/Clean%20Architecture/Mapper%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EA%B0%84%20%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%98%20%EB%B0%A9%ED%96%A5%EC%9D%84%20%EC%A0%9C%EC%96%B4%ED%95%98%EC%9E%90.md) |
 <br>
 
-### Day 93 (24.01.02.)
+### Day 93 (25.01.02.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Gradle | Gradle Type-Safe Project Accessors를 통해 멀티 모듈 의존성을 안전하게 작성하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Studio/Gradle/Gradle%20Type-Safe%20Project%20Accessors%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EB%A9%80%ED%8B%B0%20%EB%AA%A8%EB%93%88%20%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%84%20%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C%20%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 94 (25.01.04.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | Slot Pattern을 통해 컴포저블의 특정 영역을 외부에서 자유롭게 구성하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Slot%20Pattern%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EC%BB%B4%ED%8F%AC%EC%A0%80%EB%B8%94%EC%9D%98%20%ED%8A%B9%EC%A0%95%20%EC%98%81%EC%97%AD%EC%9D%84%20%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C%20%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B2%8C%20%EA%B5%AC%EC%84%B1%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
