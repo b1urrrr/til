@@ -602,6 +602,8 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Android Tool | R8을 통해 효율적으로 앱을 최적화하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Tool/R8%EC%9D%84%20%ED%86%B5%ED%95%B4%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%95%B1%EC%9D%84%20%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EC%9E%90.md) |
+<br>
+
 <!-- 
 <br>
 
