@@ -604,6 +604,10 @@
 | Android Tool | R8을 통해 효율적으로 앱을 최적화하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Tool/R8%EC%9D%84%20%ED%86%B5%ED%95%B4%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%95%B1%EC%9D%84%20%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EC%9E%90.md) |
 <br>
 
+### Day 96 (25.01.09.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | throttleClickable을 통해 중복된 클릭 이벤트를 제한하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/throttleClickable%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EC%A4%91%EB%B3%B5%EB%90%9C%20%ED%81%B4%EB%A6%AD%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A5%BC%20%EC%A0%9C%ED%95%9C%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
