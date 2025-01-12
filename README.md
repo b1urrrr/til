@@ -608,6 +608,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | throttleClickable을 통해 중복된 클릭 이벤트를 제한하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/throttleClickable%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EC%A4%91%EB%B3%B5%EB%90%9C%20%ED%81%B4%EB%A6%AD%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A5%BC%20%EC%A0%9C%ED%95%9C%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 97 (25.01.11.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | runCatching, mapCatching, recoverCatching을 통해 안전하게 예외를 처리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/runCatching%2C%20mapCatching%2C%20recoverCatching%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C%20%EC%98%88%EC%99%B8%EB%A5%BC%20%EC%B2%98%EB%A6%AC%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
