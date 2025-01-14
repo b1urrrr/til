@@ -614,6 +614,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | runCatching, mapCatching, recoverCatching을 통해 안전하게 예외를 처리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/runCatching%2C%20mapCatching%2C%20recoverCatching%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C%20%EC%98%88%EC%99%B8%EB%A5%BC%20%EC%B2%98%EB%A6%AC%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 98 (25.01.13.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | Modifier에 role을 명시하여 접근성을 개선하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Modifier%EC%97%90%20role%EC%9D%84%20%EB%AA%85%EC%8B%9C%ED%95%98%EC%97%AC%20%EC%A0%91%EA%B7%BC%EC%84%B1%EC%9D%84%20%EA%B0%9C%EC%84%A0%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
