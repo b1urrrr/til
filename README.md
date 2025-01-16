@@ -620,6 +620,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | Modifier에 role을 명시하여 접근성을 개선하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/Modifier%EC%97%90%20role%EC%9D%84%20%EB%AA%85%EC%8B%9C%ED%95%98%EC%97%AC%20%EC%A0%91%EA%B7%BC%EC%84%B1%EC%9D%84%20%EA%B0%9C%EC%84%A0%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 99 (25.01.17.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Activity | enableEdgeToEdge를 통해 확장된 화면을 제공하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/Activity/enableEdgeToEdge%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%99%95%EC%9E%A5%EB%90%9C%20%ED%99%94%EB%A9%B4%EC%9D%84%20%EC%A0%9C%EA%B3%B5%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
