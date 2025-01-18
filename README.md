@@ -626,6 +626,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Activity | enableEdgeToEdge를 통해 확장된 화면을 제공하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/Activity/enableEdgeToEdge%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%99%95%EC%9E%A5%EB%90%9C%20%ED%99%94%EB%A9%B4%EC%9D%84%20%EC%A0%9C%EA%B3%B5%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 100 (25.01.20.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| WebView | 변경이나 오류가 자주 발생하는 화면은 웹뷰로 구현하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/WebView/%EB%B3%80%EA%B2%BD%EC%9D%B4%EB%82%98%20%EC%98%A4%EB%A5%98%EA%B0%80%20%EC%9E%90%EC%A3%BC%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%ED%99%94%EB%A9%B4%EC%9D%80%20%EC%9B%B9%EB%B7%B0%EB%A1%9C%20%EA%B5%AC%ED%98%84%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
