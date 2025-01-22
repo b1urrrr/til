@@ -633,6 +633,12 @@
 | :------: | :---: | :--: |
 | WebView | 변경이나 오류가 자주 발생하는 화면은 웹뷰로 구현하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Component/WebView/%EB%B3%80%EA%B2%BD%EC%9D%B4%EB%82%98%20%EC%98%A4%EB%A5%98%EA%B0%80%20%EC%9E%90%EC%A3%BC%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%ED%99%94%EB%A9%B4%EC%9D%80%20%EC%9B%B9%EB%B7%B0%EB%A1%9C%20%EA%B5%AC%ED%98%84%ED%95%98%EC%9E%90.md) |
 | Android Studio | SDK의 설정과 AndroidManifest.xml의 속성이 충돌하는 경우에 tools:replace 속성을 활용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Studio/SDK%EC%9D%98%20%EC%84%A4%EC%A0%95%EA%B3%BC%20AndroidManifest.xml%EC%9D%98%20%EC%86%8D%EC%84%B1%EC%9D%B4%20%EC%B6%A9%EB%8F%8C%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EC%97%90%20tools%3Areplace%20%EC%86%8D%EC%84%B1%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 101 (25.01.22.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Kotlin | Spread 연산자(*)를 이용해 배열이나 컬렉션 요소를 개별 인자로 변환하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/Spread%20%EC%97%B0%EC%82%B0%EC%9E%90(*)%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20%EB%B0%B0%EC%97%B4%EC%9D%B4%EB%82%98%20%EC%BB%AC%EB%A0%89%EC%85%98%20%EC%9A%94%EC%86%8C%EB%A5%BC%20%EA%B0%9C%EB%B3%84%20%EC%9D%B8%EC%9E%90%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
