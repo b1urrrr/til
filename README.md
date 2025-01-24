@@ -639,6 +639,12 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Kotlin | Spread 연산자(*)를 이용해 배열이나 컬렉션 요소를 개별 인자로 변환하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Kotlin/Spread%20%EC%97%B0%EC%82%B0%EC%9E%90(*)%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20%EB%B0%B0%EC%97%B4%EC%9D%B4%EB%82%98%20%EC%BB%AC%EB%A0%89%EC%85%98%20%EC%9A%94%EC%86%8C%EB%A5%BC%20%EA%B0%9C%EB%B3%84%20%EC%9D%B8%EC%9E%90%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 102 (25.01.29.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Compose | PreviewParameterProvider를 통해 프리뷰의 상태별 파라미터를 주입하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/PreviewParameterProvider%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%94%84%EB%A6%AC%EB%B7%B0%EC%9D%98%20%EC%83%81%ED%83%9C%EB%B3%84%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EB%A5%BC%20%EC%A3%BC%EC%9E%85%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
