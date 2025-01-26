@@ -645,6 +645,7 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | Compose | PreviewParameterProvider를 통해 프리뷰의 상태별 파라미터를 주입하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/PreviewParameterProvider%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%94%84%EB%A6%AC%EB%B7%B0%EC%9D%98%20%EC%83%81%ED%83%9C%EB%B3%84%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EB%A5%BC%20%EC%A3%BC%EC%9E%85%ED%95%98%EC%9E%90.md) |
+| Android Studio | local.properties와 gradle.properties 파일을 구분하여 활용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Studio/local.properties%EC%99%80%20gradle.properties%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%97%AC%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 <!-- 
 <br>
 
