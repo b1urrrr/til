@@ -1,4 +1,4 @@
-## [`DisposableEffect`](https://developer.android.com/develop/ui/compose/side-effects)를 통해 생명주기에 따라 정리가 필요한 사이드 이펙트를 처리하자
+## [`DisposableEffect`](https://developer.android.com/develop/ui/compose/side-effects#disposableeffect)를 통해 생명주기에 따라 정리가 필요한 사이드 이펙트를 처리하자
 - 메모리 누수 및 기타 성능 문제 예방의 효과
 ### `DisposableEffect` 동작 방식
 ```
