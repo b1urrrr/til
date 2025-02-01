@@ -11,7 +11,7 @@ dependencies {
     ...
 }
 ```
-### Listener 구현체 생성
+### 2. Listener 구현체 생성
 ```
 class TestSocketListener : WebSocketListener() {
     override fun onClosed(webSocket: WebSocket, code: Int, reason: String) {
@@ -44,7 +44,7 @@ class TestSocketListener : WebSocketListener() {
 - `onFailure` : 메시지를 읽는 과정 또는 네트워크 상 오류로 인해 소켓이 닫히는 경우 호출되는 콜백 함수
 - `onMessage` : 원격 서버로부터 메시지를 수신한 경우 호출되는 콜백 함수
 - `onOpen` : 원격 서버와 소켓 연결이 완료된 경우 호출되는 콜백 함수
-### WebSocket 객체 생성
+### 3. WebSocket 객체 생성
 ```
 private lateinit var webSocket: WebSocket
 
