@@ -71,9 +71,9 @@ fun closeSocket() {
     webSocket.close(1000, null)
 }
 ```
-- newWebSocket() : 웹 소켓 객체 생성
-- send() : 메시지 전송
-- close() : 소켓 닫기
+- `newWebSocket()` : 웹 소켓 객체 생성
+- `send()` : 메시지 전송 요청
+- `close()` : 소켓 닫기 요청
 
 ```
 위와 같은 동작을 기반으로 프로덕트와 아키텍처에 적합하게 사용할 것
