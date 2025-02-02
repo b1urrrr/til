@@ -647,6 +647,13 @@
 | Compose | PreviewParameterProvider를 통해 프리뷰의 상태별 파라미터를 주입하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/PreviewParameterProvider%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%ED%94%84%EB%A6%AC%EB%B7%B0%EC%9D%98%20%EC%83%81%ED%83%9C%EB%B3%84%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EB%A5%BC%20%EC%A3%BC%EC%9E%85%ED%95%98%EC%9E%90.md) |
 | Android Studio | local.properties와 gradle.properties 파일을 구분하여 활용하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Android%20Studio/local.properties%EC%99%80%20gradle.properties%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20%EA%B5%AC%EB%B6%84%ED%95%98%EC%97%AC%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90.md) |
 | Compose | DisposableEffect를 통해 생명주기에 따라 정리가 필요한 사이드 이펙트를 처리하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Compose/DisposableEffect%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EC%A0%95%EB%A6%AC%EA%B0%80%20%ED%95%84%EC%9A%94%ED%95%9C%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EC%9D%B4%ED%8E%99%ED%8A%B8%EB%A5%BC%20%EC%B2%98%EB%A6%AC%ED%95%98%EC%9E%90.md) |
+<br>
+
+### Day 103 (25.02.01.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| Java | OkHttp WebSocket을 통해 소켓 통신을 구현하자 | [🔗](https://github.com/b1urrrr/til/blob/main/Language/Java/Okhttp%20WebSocket%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EC%86%8C%EC%BC%93%20%ED%86%B5%EC%8B%A0%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%98%EC%9E%90.md) |
+
 <!-- 
 <br>
 
